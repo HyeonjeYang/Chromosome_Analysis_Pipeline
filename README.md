@@ -16,3 +16,11 @@ How to use? --> Get ".h5" file from polychrom simulation.
 You can download the example file created using polychrom (blocks_0-99.h5) and run the simulation!
 <br>
 It takes quite long. So keep in mind to set the xlim and ylim properly.
+<br>
+<br>
+You can also visualize the chromosome organization using blender.
+<br>
+.csv (coordinates.h5 --> coordinates.csv)
+<br>
+<br>
+Thank you!
