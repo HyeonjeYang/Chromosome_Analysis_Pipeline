@@ -1,7 +1,7 @@
 # Hi-C-Toy-Modeling
 Simple python code to visualize simple Hi-C features : TADs, compartments
 <br>
-Work in Progress... (last modified : 02/18/2026)
+Work in Progress... (last modified : 02/22/2026)
 <br>
 This project is based on the open-source repository:<br>
 https://github.com/open2c/polychrom.git
