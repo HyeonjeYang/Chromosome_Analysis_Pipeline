@@ -1,5 +1,5 @@
 # Chromosome_Analysis_Pipeline
-Simple python code to visualize simple Hi-C features : TADs, compartments
+Pipelines for analyzing chromosome organization : TADs, compartments... etc.
 <br>
 Work in Progress... (last modified : 02/23/2026)
 <br>
